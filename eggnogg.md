@@ -1,4 +1,4 @@
-# My eggnog recipe (based on historic American recipes)
+# My eggnog recipe (interated over a synthesis of historic American recipes)
 
 Ingredients for about 1-1.5 liters of nog (depending on booze)
 
